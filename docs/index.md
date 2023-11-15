@@ -8,8 +8,8 @@ I've collaborated with interdisciplinary teams on various projects, ranging from
 
 These repositories serve as a collection of my work, where I constantly recycle and improve my code. I prefer programming in C to be close to silicon, but I'm always open to learning and testing new technologies.
 
-### Meal Planning App
-- **Project Name 1**
+### Some of my projects
+- **Meal Planning App**
   - Description: this is an ongoing project about a multiplatform application using .net technologies. The aim is to create an application that makes the supermarket shopping list without collecting data and in such a way that the recipes can be personalised by the user.
   - Skills and Technologies: .net, c#
 
@@ -21,13 +21,14 @@ These repositories serve as a collection of my work, where I constantly recycle 
 - **Wireless optical communications**
   - Description: This was the theme of my promotion as a PhD. 
   - Skills and Technologies: Electronics Design, Communication Systems
-  - Link to dissertation: https://suche.suub.uni-bremen.de/peid=B180978176&LAN=DE&CID=&index=L&Hitnr=1&dtyp=h&rtyp=a&Exemplar=1
+  - Link to dissertation: [![Uni Bremen Bib](https://github.com/chrislsanchez/chrislsanchez.github.io/assets/38102605/62ce6d94-4004-41c7-b5ad-05c4a2e1b7d8)](https://suche.suub.uni-bremen.de/peid=B180978176&LAN=DE&CID=&index=L&Hitnr=1&dtyp=h&rtyp=a&Exemplar=1)
+
 
 ### Contact
 Connect with me on LinkedIn:
-[![LinkedIn](images/linkedin-icon.png)](https://www.linkedin.com/in/your-linkedin-profile)
+[![LinkedIn](https://github.com/chrislsanchez/chrislsanchez.github.io/assets/38102605/dc10e792-d027-4c26-b6eb-99ff46cd1815)](linkedin.com/in/chrislsanchez)
 
-<!-- 
+<!-- ⬅
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/chrislsanchez/chrislsanchez.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
