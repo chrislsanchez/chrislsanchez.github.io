@@ -1,32 +1,36 @@
 # Christian Sanchez
 ## Electronics Engineer | DIY Enthusiast
 
-### About Me
-I'm an electronics engineer passionate about technology and a DIY enthusiast. I enjoy working on embedded systems and electronics design, implementing new technologies, and making things work.
+## 👋 About Me
 
-I've collaborated with interdisciplinary teams on various projects, from creating a wireless data logger system for a medical investigation in pneumonology, to building robots for competitions, designing toys for children with impairments, and developing communication systems for launchers.
+I'm an electronics engineer 🔧 passionate about technology 💡 and a DIY enthusiast 🛠️. I enjoy working with embedded systems 🤖, programming 👨‍💻, and electronics design—implementing new technologies 🚀 and making things work ⚙️.
 
-These repositories serve as a collection of my work, where I constantly recycle and improve my code. I prefer programming in C to be close to silicon, but I'm always open to learning and testing new technologies.
+I've collaborated with interdisciplinary teams on a variety of projects, from creating a wireless data logger system 📡 for a medical investigation in pneumonology 🫁, to building robots for competitions 🤖🏆, designing toys for children with impairments 🧸, and developing communication systems for launchers 🚀📶.
 
-### Some of my projects
-- **Meal Planning App**
-  - Description: this is an ongoing project about a multiplatform application using .net technologies. The aim is to create an application that makes the supermarket shopping list without collecting data and in such a way that the recipes can be personalised by the user.
-  - Skills and Technologies: .net, c#
+Currently, I'm working on automation systems 🤖—programming PLCs and developing software to control machines 🏭. Sometimes that means writing C# 💻, sometimes working with real-time logic in Structured Text ⏱️, and other times analyzing test data using Python 🐍📊.
 
-- **Line Follower Robot**
-  - Description: This was a little line-following robot that I built with my robotics group during my bachelor's degree to have some fun and collect some money for other fun electronic projects..
-  - Skills and Technologies: Electronics Design, Team Work, Embedded Systems, C, Robotics
-  - Repository Link: 
+I'm pretty programming-language agnostic 🔄. I believe that once you master one, picking up others gets much easier 💪. That said, I have a soft spot for C 💖 and its extended family—C++ and C# (I know, C# isn't exactly close to the silicon 🧠, but you can still build awesome stuff with it 😄).
 
-- **Wireless optical communications**
-  - Description: This was the theme of my promotion as a PhD. 
-  - Skills and Technologies: Electronics Design, Communication Systems
+These repositories are a collection of my work 📂, where I constantly recycle and improve my code 🔁. If you find something messy 😅, it’s either from long ago—or very recent, because I'm always learning 📚✨.
+
+### 🚀 Some of My Projects
+
+- **🍴 Meal Planning App**
+  - **Description**: This is an ongoing project about a multiplatform application using .NET technologies. The aim is to create an app that automatically generates a supermarket shopping list without collecting data, allowing users to personalize recipes.
+  - **Skills and Technologies**: .NET, C#
+
+- **🤖 Line Follower Robot**
+  - **Description**: This was a fun little line-following robot I built with my robotics group during my bachelor's degree. We made it to have some fun and raise some money for other cool electronic projects!
+  - **Skills and Technologies**: Electronics Design, Teamwork, Embedded Systems, C, Robotics
+
+- **📡 Wireless Optical Communications**
+  - **Description**: This was the theme of my promotion as a PhD candidate. A deep dive into the world of wireless optical communication systems.
+  - **Skills and Technologies**: Electronics Design, Communication Systems
   - Link to dissertation: [![Uni Bremen Bib](https://github.com/chrislsanchez/chrislsanchez.github.io/assets/38102605/62ce6d94-4004-41c7-b5ad-05c4a2e1b7d8)](https://suche.suub.uni-bremen.de/peid=B180978176&LAN=DE&CID=&index=L&Hitnr=1&dtyp=h&rtyp=a&Exemplar=1)
 
+### 📬 Contact
 
-### Contact
-Connect with me on LinkedIn:
-[![LinkedIn](https://github.com/chrislsanchez/chrislsanchez.github.io/assets/38102605/dc10e792-d027-4c26-b6eb-99ff46cd1815)](linkedin.com/in/chrislsanchez)
+Connect with me on LinkedIn: [![LinkedIn](https://github.com/chrislsanchez/chrislsanchez.github.io/assets/38102605/dc10e792-d027-4c26-b6eb-99ff46cd1815)](https://www.linkedin.com/in/chrislsanchez/)
 
 <!-- ⬅
 ## Welcome to GitHub Pages
