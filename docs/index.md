@@ -4,7 +4,7 @@
 ### About Me
 I'm an electronics engineer passionate about technology and a DIY enthusiast. I enjoy working on embedded systems and electronics design, implementing new technologies, and making things work.
 
-I've collaborated with interdisciplinary teams on various projects, ranging from building robots for competitions to creating toys for impaired children and developing communication systems for launchers.
+I've collaborated with interdisciplinary teams on various projects, from creating a wireless data logger system for a medical investigation in pneumonology, to building robots for competitions, designing toys for children with impairments, and developing communication systems for launchers.
 
 These repositories serve as a collection of my work, where I constantly recycle and improve my code. I prefer programming in C to be close to silicon, but I'm always open to learning and testing new technologies.
 
