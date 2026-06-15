@@ -8,6 +8,11 @@
   tags: ["C++23", "Edge AI", "CMake", "TDD (Google Test)", "IoT", "Linux", "Python"]
   url: "https://github.com/christiansanchezde/edge-sentinel-os"
 
+- name: "Pi Jukebox (Upgraded)"
+  description: "Originally hardened into a Yocto image, the transition to Debian 13 and Kernel 6.12+ required a complete architectural shift to handle modern Linux GPIO standards. I refactored the entire hardware stack to abandon legacy libraries in favor of gpiozero, implemented strict host/target Python virtual environments, and built an automated VS Code rsync deployment pipeline, proving that appliance-level stability can be achieved on a standard OS."
+  tags: ["Python", "Linux", "gpiozero", "Systemd", "RFID"]
+  url: "https://github.com/christiansanchezde/pi-jukebox-app"
+
 - name: "MealPlan"
   description: "A cross-platform mobile and desktop application built with .NET MAUI to streamline household logistics. It leverages a unified codebase to manage weekly nutritional planning and automated shopping list generation, focusing on clean UI/UX and efficient data persistence."
   tags: ["MAUI", ".NET", "MVVM", "SQLite"]
